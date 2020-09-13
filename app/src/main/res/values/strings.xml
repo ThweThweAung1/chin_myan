@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">China_Myan Dictionary</string>
+    <string name="title_activity_detailword">MainActivity</string>
+    <string name="title_save">Save</string>
+    <string name="title_links">Links</string>
+    <string name="title_notifications">Notifications</string>
+<!--    <string name="text">-->
+<!--        <a href="https://www.google.com">Google</a>-->
+<!--    </string>-->
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Detail37Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="喝"
+            android:textColor="#F44336"
+            android:textSize="70sp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="hē"
+            android:textColor="#232121"
+            android:textSize="50sp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="-သောက်သည်။"
+            android:textSize="20sp"
+            android:textColor="#443F3F"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="我很爱看电影，所以周末常跟朋友或家人去电影院看电影
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wǒ hěn ài kàn diàn yǐng , suǒ yǐ zhōu mò cháng gēn péng you huò jiā rén qù diàn yǐng yuàn kàn diàn yǐng"
+            android:textColor="#E698F3"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="ငါရုပ်ရှင်ကြည့်ရတာသဘောကျတယ်။ ဒါကြောင့်စနေ၊ တနင်္ဂနွေနေ့တွေမှာရုပ်ရှင်တွေကြည့်ဖို့သူငယ်ချင်းတွေ၊ မိသားစုတွေနဲ့အတူရုပ်ရှင်ရုံကိုသွားလေ့ရှိတယ်"
+            android:textColor="#484242"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</ScrollView>

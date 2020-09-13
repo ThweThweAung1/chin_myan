@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tta.china_myandictionary">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Detail45Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail59Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail58Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail57Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail56Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail55Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail54Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail53Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail52Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail51Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail50Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail49Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail48Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail47Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail46Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail44Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail43Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail42Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail41Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail40Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail39Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail38Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail37Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail36Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail35Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail34Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail33Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail32Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail31Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail30Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail29Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".Detail28Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail27Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail26Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail25Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail24Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail23Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail22Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail21Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail20Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail19Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Detail18Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".Detail17Activity" />
+        <activity
+            android:name=".Detail16Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail15Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail14Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".Link1Activity" />
+        <activity
+            android:name=".Detail13Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail12Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".Detail11Activity" />
+        <activity
+            android:name=".Detail10Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail9Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail8Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail7Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail6Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail5Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail1Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail4Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail3Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Detail2Activity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DetailActivity"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
